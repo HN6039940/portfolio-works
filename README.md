@@ -13,7 +13,7 @@
 ## デモ
 
 サイトのデモは以下のリンクからご覧いただけます：
-[作品紹介サイトデモ](https://example.com)
+[作品紹介サイトデモ](https://reliable-biscotti-d65bd1.netlify.app/)
 
 ## カスタマイズ
 
